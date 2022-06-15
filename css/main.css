@@ -1,1 +1,539 @@
-*{margin:0;padding:0;list-style:none;text-decoration:none;outline:none;border:none;box-sizing:border-box;font-family:"Inter", sans-serif}img{max-width:100%;display:block}html{font-size:62.5%}@media (max-width: 1300px){html{font-size:58%}}@media (max-width: 991px){html{font-size:62.5%}}html,body{overflow-x:hidden}button{background-color:transparent;cursor:pointer}.container{width:100%;max-width:124.6rem;padding:0 15px;margin:0 auto}h1{font-weight:600;font-size:6.4rem}@media (max-width: 1050px){h1{font-size:5.2rem}}@media (max-width: 991px){h1{font-size:4.8rem}}h2{font-weight:bold;font-size:4rem}h3{font-size:2.4rem;line-height:150%}p{font-size:2rem;line-height:155%;color:#fff}p h1,p h2{font-family:"Poppins", sans-serif;line-height:112%;letter-spacing:-1px;color:#fff}p h3,p h4{font-family:"Poppins", sans-serif;color:#fff;letter-spacing:-0.5px;font-weight:500}body .slides-jiic .swiper-pagination{left:800px;position:absolute;width:15rem}body .slides-jiic .swiper-pagination .swiper-pagination-bullet{background:white;opacity:0.3;border-radius:12px;transition:all 0.3s;position:relative}body .slides-jiic .swiper-pagination .swiper-pagination-bullet-active{opacity:1;border-radius:17.23px}body header{display:flex;justify-content:flex-end;align-items:flex-end;background:#1B1B1B;position:absolute;top:0;left:0;width:100%;height:8.8rem}body header h2{margin-right:10rem;color:#fff}body .slide-1{display:flex;align-items:center;justify-content:center;width:100%;height:100vh;background:#1B1B1B}body .slide-1 .container{display:flex;align-items:center;justify-content:center}body .slide-1 .container .titulo{display:flex;align-items:center;justify-content:center}body .slide-1 .container .titulo img{height:16.5rem;width:17rem;margin-right:4.7rem}body .slide-1 .container .titulo h1{width:100%;max-width:40.7rem;text-align:initial;font-size:100px;color:#fff}body .slide-2{align-items:center;justify-content:center;width:100%;height:100vh;background:#1B1B1B}body .slide-2 .header-s2{display:flex;align-items:center;justify-content:center;margin-bottom:3.5rem}body .slide-2 .container{display:flex;flex-direction:column;align-items:center;justify-content:center}body .slide-2 .container .ideia{display:flex;flex-direction:column;align-items:center;justify-content:center}body .slide-2 .container .ideia .paragrafo-1{text-align:center;margin-bottom:2.5rem}body .slide-2 .container .ideia .paragrafo-2{text-align:center}body .slide-2 .container .titulo{display:flex;align-items:center;justify-content:center}body .slide-2 .container .titulo img{height:16.5rem;width:17rem;margin-right:4.7rem}body .slide-2 .container .titulo h1{width:100%;max-width:40.7rem;text-align:initial;font-size:10rem;color:#fff}body .slide-2 .rodape-slide-2{margin-top:19rem}body .slide-2 .rodape-slide-2 .container{display:flex;flex-direction:row;justify-content:space-between}body .slide-2 .rodape-slide-2 .container h1{color:#fff}body .slide-2 .rodape-slide-2 .container h2{color:#fff}body .slide-3{padding-top:5.5rem;width:100%;height:100vh;background:#1B1B1B}body .slide-3 .container{align-items:flex-start;justify-content:center;display:flex;flex-direction:row}body .slide-3 .container .problema{display:flex;flex-direction:column}body .slide-3 .container .problema h1{margin-bottom:5.5rem;color:#fff}body .slide-3 .container .problema p{margin-bottom:17.7rem;width:100%;max-width:73.2rem;color:#fff}body .slide-3 .container .problema h2{color:#fff}body .slide-3 .container .icone-atencao{margin-left:10.2rem;margin-top:12.1rem}body .slide-3 .container .icone-atencao img{height:25.6rem}body .slide-4{padding-top:5.5rem;width:100%;height:100vh;background:#1B1B1B}body .slide-4 .container{align-items:flex-start;justify-content:center;display:flex;flex-direction:row}body .slide-4 .container .objetivo{padding-right:35.9rem;display:flex;flex-direction:column}body .slide-4 .container .objetivo h1{margin-bottom:5.5rem;color:#fff}body .slide-4 .container .objetivo p{margin-bottom:17.7rem;width:100%;max-width:73.2rem;color:#fff}body .slide-4 .container .objetivo h2{color:#fff}body .slide-4 .container .icone-telefone{position:absolute;margin-left:10.2rem;margin-top:12.1rem}body .slide-4 .container .icone-telefone img{position:relative;left:354px;top:-265px;height:64.6rem}body .slide-5{padding-top:5.5rem;width:100%;height:100vh;background:#1B1B1B}body .slide-5 .container{align-items:flex-start;justify-content:center;display:flex;flex-direction:row}body .slide-5 .container .objetivo{display:flex;flex-direction:column}body .slide-5 .container .objetivo h1{margin-bottom:5.5rem;color:#fff}body .slide-5 .container .objetivo p{margin-bottom:3.7rem;width:100%;max-width:73.2rem;color:#fff}body .slide-5 .container .objetivo h2{margin-top:4.2rem;color:#fff}body .slide-6{padding-top:5.5rem;width:100%;height:100vh;background:#1B1B1B}body .slide-6 .container{align-items:center;justify-content:center;display:flex;flex-direction:row}body .slide-6 .container .divulgacao{display:flex;flex-direction:column}body .slide-6 .container .divulgacao h1{margin-bottom:5.5rem;color:#fff}body .slide-6 .container .divulgacao p{margin-bottom:3.7rem;width:100%;max-width:73.2rem;color:#fff}body .slide-6 .container .divulgacao h2{margin-top:4.2rem;color:#fff}body .slide-7{padding-top:5.5rem;width:100%;height:100vh;background:#1B1B1B}body .slide-7 .container{align-items:center;justify-content:center;display:flex;flex-direction:row}body .slide-7 .container .tecnologias{width:100%;max-width:70.4rem;display:flex;flex-direction:column}body .slide-7 .container .tecnologias h1{text-align:center;margin-bottom:5.5rem;color:#fff;margin-bottom:17.7rem}body .slide-7 .container .tecnologias h2{color:#fff}body .slide-7 .container .tecnologias .stacks{display:flex;flex-direction:row;align-items:center;justify-content:center}body .slide-7 .container .tecnologias .stacks ul{width:100%;flex-direction:row;display:flex;align-items:center;justify-content:space-between;margin-bottom:13.7rem}body .slide-7 .container .tecnologias .stacks ul li{font-size:100px}
+/* line 1, ../../JIIC-NVM-HTML/scss/_reset.scss */
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+/* line 12, ../../JIIC-NVM-HTML/scss/_reset.scss */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* line 17, ../../JIIC-NVM-HTML/scss/_reset.scss */
+html {
+  font-size: 62.5%;
+}
+
+@media (max-width: 1300px) {
+  /* line 17, ../../JIIC-NVM-HTML/scss/_reset.scss */
+  html {
+    font-size: 58%;
+  }
+}
+
+@media (max-width: 991px) {
+  /* line 17, ../../JIIC-NVM-HTML/scss/_reset.scss */
+  html {
+    font-size: 62.5%;
+  }
+}
+
+/* line 29, ../../JIIC-NVM-HTML/scss/_reset.scss */
+html,
+body {
+  overflow-x: hidden;
+}
+
+/* line 34, ../../JIIC-NVM-HTML/scss/_reset.scss */
+button {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+/* line 1, ../../JIIC-NVM-HTML/scss/_grid.scss */
+.container {
+  width: 100%;
+  max-width: 124.6rem;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+/* line 1, ../../JIIC-NVM-HTML/scss/_titles.scss */
+h1 {
+  font-weight: 600;
+  font-size: 6.4rem;
+}
+
+@media (max-width: 1050px) {
+  /* line 1, ../../JIIC-NVM-HTML/scss/_titles.scss */
+  h1 {
+    font-size: 5.2rem;
+  }
+}
+
+@media (max-width: 991px) {
+  /* line 1, ../../JIIC-NVM-HTML/scss/_titles.scss */
+  h1 {
+    font-size: 4.8rem;
+  }
+}
+
+/* line 14, ../../JIIC-NVM-HTML/scss/_titles.scss */
+h2 {
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+/* line 19, ../../JIIC-NVM-HTML/scss/_titles.scss */
+h3 {
+  font-size: 2.4rem;
+  line-height: 150%;
+}
+
+/* line 24, ../../JIIC-NVM-HTML/scss/_titles.scss */
+p {
+  font-size: 2rem;
+  line-height: 155%;
+  color: #FFFFFF;
+}
+
+/* line 29, ../../JIIC-NVM-HTML/scss/_titles.scss */
+p h1,
+p h2 {
+  font-family: "Poppins", sans-serif;
+  line-height: 112%;
+  letter-spacing: -1px;
+  color: #FFFFFF;
+}
+
+/* line 37, ../../JIIC-NVM-HTML/scss/_titles.scss */
+p h3,
+p h4 {
+  font-family: "Poppins", sans-serif;
+  color: #FFFFFF;
+  letter-spacing: -0.5px;
+  font-weight: 500;
+}
+
+/* line 3, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slides-jiic .swiper-pagination {
+  left: 800px;
+  position: absolute;
+  width: 15rem;
+}
+
+/* line 8, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slides-jiic .swiper-pagination .swiper-pagination-bullet {
+  background: white;
+  opacity: 0.3;
+  border-radius: 12px;
+  transition: all 0.3s;
+  position: relative;
+}
+
+/* line 14, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slides-jiic .swiper-pagination .swiper-pagination-bullet-active {
+  opacity: 1;
+  border-radius: 17.23px;
+}
+
+/* line 22, ../../JIIC-NVM-HTML/scss/_home.scss */
+body header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background: #1B1B1B;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 8.8rem;
+}
+
+/* line 33, ../../JIIC-NVM-HTML/scss/_home.scss */
+body header h2 {
+  margin-right: 10rem;
+  color: #FFFFFF;
+}
+
+/* line 39, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 46, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-1 .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 51, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-1 .container .titulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 56, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-1 .container .titulo img {
+  height: 16.5rem;
+  width: 17rem;
+  margin-right: 4.7rem;
+}
+
+/* line 62, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-1 .container .titulo h1 {
+  width: 100%;
+  max-width: 40.7rem;
+  text-align: initial;
+  font-size: 100px;
+  color: #FFFFFF;
+}
+
+/* line 73, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 {
+  padding-top: 7.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 81, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .header-s2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3.5rem;
+}
+
+/* line 88, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 94, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container .ideia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 99, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container .ideia .paragrafo-1 {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+/* line 103, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container .ideia .paragrafo-2 {
+  text-align: center;
+}
+
+/* line 108, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container .titulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 113, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container .titulo img {
+  height: 16.5rem;
+  width: 17rem;
+  margin-right: 4.7rem;
+}
+
+/* line 119, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .container .titulo h1 {
+  width: 100%;
+  max-width: 40.7rem;
+  text-align: initial;
+  font-size: 10rem;
+  color: #FFFFFF;
+}
+
+/* line 129, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .rodape-slide-2 {
+  margin-top: 19rem;
+}
+
+/* line 131, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .rodape-slide-2 .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 135, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .rodape-slide-2 .container h1 {
+  color: #FFFFFF;
+}
+
+/* line 139, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-2 .rodape-slide-2 .container h2 {
+  color: #FFFFFF;
+}
+
+/* line 146, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 {
+  padding-top: 16rem;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 152, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container {
+  align-items: flex-start;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 157, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container .problema {
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 160, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container .problema h1 {
+  margin-bottom: 5.5rem;
+  color: #FFFFFF;
+}
+
+/* line 165, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container .problema p {
+  margin-bottom: 17.7rem;
+  width: 100%;
+  max-width: 73.2rem;
+  color: #FFFFFF;
+}
+
+/* line 172, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container .problema h2 {
+  color: #FFFFFF;
+}
+
+/* line 177, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container .icone-atencao {
+  margin-left: 10.2rem;
+  margin-top: 12.1rem;
+}
+
+/* line 180, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-3 .container .icone-atencao img {
+  height: 25.6rem;
+}
+
+/* line 187, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 {
+  padding-top: 25rem;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 193, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container {
+  align-items: flex-start;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 198, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container .objetivo {
+  padding-right: 35.9rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 202, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container .objetivo h1 {
+  margin-bottom: 5.5rem;
+  color: #FFFFFF;
+}
+
+/* line 207, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container .objetivo p {
+  margin-bottom: 17.7rem;
+  width: 100%;
+  max-width: 73.2rem;
+  color: #FFFFFF;
+}
+
+/* line 214, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container .objetivo h2 {
+  color: #FFFFFF;
+}
+
+/* line 219, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container .icone-telefone {
+  position: absolute;
+  margin-left: 10.2rem;
+  margin-top: 12.1rem;
+}
+
+/* line 223, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-4 .container .icone-telefone img {
+  position: relative;
+  left: 354px;
+  top: -265px;
+  height: 64.6rem;
+}
+
+/* line 233, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-5 {
+  padding-top: 15rem;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 239, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-5 .container {
+  align-items: flex-start;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 244, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-5 .container .objetivo {
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 247, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-5 .container .objetivo h1 {
+  margin-bottom: 5.5rem;
+  color: #FFFFFF;
+}
+
+/* line 252, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-5 .container .objetivo p {
+  margin-bottom: 3.7rem;
+  width: 100%;
+  max-width: 73.2rem;
+  color: #FFFFFF;
+}
+
+/* line 259, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-5 .container .objetivo h2 {
+  margin-top: 4.2rem;
+  color: #FFFFFF;
+}
+
+/* line 267, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-6 {
+  padding-top: 20rem;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 273, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-6 .container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 278, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-6 .container .divulgacao {
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 281, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-6 .container .divulgacao h1 {
+  margin-bottom: 5.5rem;
+  color: #FFFFFF;
+}
+
+/* line 286, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-6 .container .divulgacao p {
+  margin-bottom: 3.7rem;
+  width: 100%;
+  max-width: 73.2rem;
+  color: #FFFFFF;
+}
+
+/* line 293, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-6 .container .divulgacao h2 {
+  margin-top: 4.2rem;
+  color: #FFFFFF;
+}
+
+/* line 301, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 {
+  padding-top: 20rem;
+  width: 100%;
+  height: 100vh;
+  background: #1B1B1B;
+}
+
+/* line 307, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 312, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container .tecnologias {
+  width: 100%;
+  max-width: 70.4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 317, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container .tecnologias h1 {
+  text-align: center;
+  margin-bottom: 5.5rem;
+  color: #FFFFFF;
+  margin-bottom: 17.7rem;
+}
+
+/* line 324, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container .tecnologias h2 {
+  color: #FFFFFF;
+}
+
+/* line 327, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container .tecnologias .stacks {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 333, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container .tecnologias .stacks ul {
+  width: 100%;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 13.7rem;
+}
+
+/* line 339, ../../JIIC-NVM-HTML/scss/_home.scss */
+body .slide-7 .container .tecnologias .stacks ul li {
+  font-size: 100px;
+}
+
+/*# sourceMappingURL=main.css.map */
