@@ -1,5 +1,5 @@
 html {
-    @include responsive(800px) {
+    @include responsive(801px) {
         font-size: 55.5%;
     }
 
@@ -23,25 +23,25 @@ html {
                 }
             }
 
-            @include responsive(936px) {
+            @include responsive(937px) {
                 .swiper-pagination {
                     left: 385px;
                 }
             }
 
-            @include responsive(1920px) {
+            @include responsive(1921px) {
                 .swiper-pagination {
                     left: 887px;
                 }
             }
 
-            @include responsive(1440px) {
+            @include responsive(1441px) {
                 .swiper-pagination {
                     left: 642px;
                 }
             }
 
-            @include responsive(800px) {
+            @include responsive(801px) {
                 .swiper-pagination {
                     left: 323px;
                 }
@@ -49,13 +49,8 @@ html {
 
             @include responsive(360px) {
                 .swiper-pagination {
-                    left: 122px;
-                }
-            }
-
-            @include responsive(360px) {
-                .swiper-pagination {
                     width: 36%;
+                    left: 122px;
                 }
             }
         }
@@ -110,7 +105,7 @@ html {
                 }
             }
 
-            @include responsive(1298px) {
+            @include responsive(1299px) {
                 .container {
                     .titulo {
                         h1 {
@@ -120,7 +115,7 @@ html {
                 }
             }
 
-            @include responsive(360px) {
+            @include responsive(361px) {
                 .container {
                     .titulo {
                         display: flex;
@@ -214,7 +209,7 @@ html {
                 }
             }
 
-            @include responsive(1280px) {
+            @include responsive(1281px) {
                 padding-top: 0;
                 .rodape-slide-2 {
                     margin-top: 12rem;
@@ -225,7 +220,7 @@ html {
                 }
             }
 
-            @include responsive(360px) {
+            @include responsive(361px) {
                 .container {
                     .ideia {
                         p {
@@ -279,11 +274,11 @@ html {
                 }
             }
 
-            @include responsive(1280px) {
+            @include responsive(1281px) {
                 padding-top: 6rem;
             }
 
-            @include responsive(800px) {
+            @include responsive(801px) {
                 .container {
                     .icone-atencao {
                         img {
@@ -339,11 +334,15 @@ html {
                 }
             }
 
-            @include responsive(1280px) {
+            @include responsive(1281px) {
                 padding-top: 18rem;
             }
 
-            @include responsive(800px) {
+            @include responsive(1384px) {
+                padding-top: 16rem;
+            }
+            
+            @include responsive(801px) {
                 .container {
                     .icone-telefone {
                         img {

@@ -112,7 +112,7 @@ p h4 {
   font-weight: 500;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 801px) {
   /* line 1, ../../JIIC-NVM-HTML/scss/_home.scss */
   html {
     font-size: 55.5%;
@@ -141,28 +141,28 @@ html body .slides-jiic .swiper-pagination .swiper-pagination-bullet-active {
   border-radius: 17.23px;
 }
 
-@media (max-width: 936px) {
+@media (max-width: 937px) {
   /* line 27, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slides-jiic .swiper-pagination {
     left: 385px;
   }
 }
 
-@media (max-width: 1920px) {
+@media (max-width: 1921px) {
   /* line 33, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slides-jiic .swiper-pagination {
     left: 887px;
   }
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 1441px) {
   /* line 39, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slides-jiic .swiper-pagination {
     left: 642px;
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 801px) {
   /* line 45, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slides-jiic .swiper-pagination {
     left: 323px;
@@ -172,18 +172,12 @@ html body .slides-jiic .swiper-pagination .swiper-pagination-bullet-active {
 @media (max-width: 360px) {
   /* line 51, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slides-jiic .swiper-pagination {
+    width: 36%;
     left: 122px;
   }
 }
 
-@media (max-width: 360px) {
-  /* line 57, ../../JIIC-NVM-HTML/scss/_home.scss */
-  html body .slides-jiic .swiper-pagination {
-    width: 36%;
-  }
-}
-
-/* line 63, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 58, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body header {
   display: flex;
   justify-content: flex-end;
@@ -196,13 +190,13 @@ html body header {
   height: 8.8rem;
 }
 
-/* line 74, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 69, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body header h2 {
   margin-right: 10rem;
   color: #FFFFFF;
 }
 
-/* line 80, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 75, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-1 {
   display: flex;
   align-items: center;
@@ -212,28 +206,28 @@ html body .slide-1 {
   background: #1B1B1B;
 }
 
-/* line 87, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 82, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-1 .container {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-/* line 92, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 87, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-1 .container .titulo {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-/* line 97, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 92, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-1 .container .titulo img {
   height: 16.5rem;
   width: 17rem;
   margin-right: 4.7rem;
 }
 
-/* line 103, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 98, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-1 .container .titulo h1 {
   width: 100%;
   max-width: 40.7rem;
@@ -242,26 +236,26 @@ html body .slide-1 .container .titulo h1 {
   color: #FFFFFF;
 }
 
-@media (max-width: 1298px) {
-  /* line 116, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 1299px) {
+  /* line 111, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-1 .container .titulo h1 {
     font-size: 85px;
   }
 }
 
-@media (max-width: 360px) {
-  /* line 125, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 361px) {
+  /* line 120, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-1 .container .titulo {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  /* line 131, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 126, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-1 .container .titulo h1 {
     font-size: 47px;
   }
-  /* line 135, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 130, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-1 .container .titulo img {
     height: 11.5rem;
     width: 13rem;
@@ -269,7 +263,7 @@ html body .slide-1 .container .titulo h1 {
   }
 }
 
-/* line 145, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 140, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 {
   padding-top: 7.5rem;
   align-items: center;
@@ -279,7 +273,7 @@ html body .slide-2 {
   background: #1B1B1B;
 }
 
-/* line 153, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 148, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .header-s2 {
   display: flex;
   align-items: center;
@@ -287,7 +281,7 @@ html body .slide-2 .header-s2 {
   margin-bottom: 3.5rem;
 }
 
-/* line 160, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 155, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container {
   display: flex;
   flex-direction: column;
@@ -295,7 +289,7 @@ html body .slide-2 .container {
   justify-content: center;
 }
 
-/* line 166, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 161, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container .ideia {
   display: flex;
   flex-direction: column;
@@ -303,32 +297,32 @@ html body .slide-2 .container .ideia {
   justify-content: center;
 }
 
-/* line 171, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 166, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container .ideia .paragrafo-1 {
   text-align: center;
   margin-bottom: 2.5rem;
 }
 
-/* line 175, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 170, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container .ideia .paragrafo-2 {
   text-align: center;
 }
 
-/* line 180, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 175, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container .titulo {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-/* line 185, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 180, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container .titulo img {
   height: 16.5rem;
   width: 17rem;
   margin-right: 4.7rem;
 }
 
-/* line 191, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 186, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .container .titulo h1 {
   width: 100%;
   max-width: 40.7rem;
@@ -337,55 +331,55 @@ html body .slide-2 .container .titulo h1 {
   color: #FFFFFF;
 }
 
-/* line 201, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 196, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .rodape-slide-2 {
   margin-top: 19rem;
 }
 
-/* line 203, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 198, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .rodape-slide-2 .container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-/* line 207, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 202, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .rodape-slide-2 .container h1 {
   color: #FFFFFF;
 }
 
-/* line 211, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 206, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-2 .rodape-slide-2 .container h2 {
   color: #FFFFFF;
 }
 
-@media (max-width: 1280px) {
-  /* line 145, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 1281px) {
+  /* line 140, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-2 {
     padding-top: 0;
   }
-  /* line 219, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 214, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-2 .rodape-slide-2 {
     margin-top: 12rem;
   }
-  /* line 223, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 218, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-2 .header-s2 {
     padding-top: 3rem;
   }
 }
 
-@media (max-width: 360px) {
-  /* line 231, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 361px) {
+  /* line 226, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-2 .container .ideia p {
     font-size: 1.4rem;
   }
-  /* line 236, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 231, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-2 .rodape-slide-2 {
     margin-top: 3rem;
   }
 }
 
-/* line 242, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 237, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 {
   padding-top: 16rem;
   width: 100%;
@@ -393,7 +387,7 @@ html body .slide-3 {
   background: #1B1B1B;
 }
 
-/* line 248, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 243, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container {
   align-items: flex-start;
   justify-content: center;
@@ -401,19 +395,19 @@ html body .slide-3 .container {
   flex-direction: row;
 }
 
-/* line 253, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 248, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container .problema {
   display: flex;
   flex-direction: column;
 }
 
-/* line 256, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 251, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container .problema h1 {
   margin-bottom: 5.5rem;
   color: #FFFFFF;
 }
 
-/* line 261, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 256, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container .problema p {
   margin-bottom: 17.7rem;
   width: 100%;
@@ -421,37 +415,37 @@ html body .slide-3 .container .problema p {
   color: #FFFFFF;
 }
 
-/* line 268, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 263, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container .problema h2 {
   color: #FFFFFF;
 }
 
-/* line 273, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 268, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container .icone-atencao {
   margin-left: 10.2rem;
   margin-top: 12.1rem;
 }
 
-/* line 276, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 271, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-3 .container .icone-atencao img {
   height: 25.6rem;
 }
 
-@media (max-width: 1280px) {
-  /* line 242, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 1281px) {
+  /* line 237, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-3 {
     padding-top: 6rem;
   }
 }
 
-@media (max-width: 800px) {
-  /* line 289, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 801px) {
+  /* line 284, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-3 .container .icone-atencao img {
     width: 369px;
   }
 }
 
-/* line 297, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 292, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 {
   padding-top: 25rem;
   width: 100%;
@@ -459,7 +453,7 @@ html body .slide-4 {
   background: #1B1B1B;
 }
 
-/* line 303, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 298, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container {
   align-items: flex-start;
   justify-content: center;
@@ -467,20 +461,20 @@ html body .slide-4 .container {
   flex-direction: row;
 }
 
-/* line 308, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 303, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container .objetivo {
   padding-right: 35.9rem;
   display: flex;
   flex-direction: column;
 }
 
-/* line 312, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 307, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container .objetivo h1 {
   margin-bottom: 5.5rem;
   color: #FFFFFF;
 }
 
-/* line 317, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 312, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container .objetivo p {
   margin-bottom: 17.7rem;
   width: 100%;
@@ -488,19 +482,19 @@ html body .slide-4 .container .objetivo p {
   color: #FFFFFF;
 }
 
-/* line 324, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 319, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container .objetivo h2 {
   color: #FFFFFF;
 }
 
-/* line 329, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 324, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container .icone-telefone {
   position: absolute;
   margin-left: 10.2rem;
   margin-top: 12.1rem;
 }
 
-/* line 333, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 328, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-4 .container .icone-telefone img {
   position: relative;
   left: 354px;
@@ -508,15 +502,22 @@ html body .slide-4 .container .icone-telefone img {
   height: 64.6rem;
 }
 
-@media (max-width: 1280px) {
-  /* line 297, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 1281px) {
+  /* line 292, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-4 {
     padding-top: 18rem;
   }
 }
 
-@media (max-width: 800px) {
-  /* line 349, ../../JIIC-NVM-HTML/scss/_home.scss */
+@media (max-width: 1384px) {
+  /* line 292, ../../JIIC-NVM-HTML/scss/_home.scss */
+  html body .slide-4 {
+    padding-top: 16rem;
+  }
+}
+
+@media (max-width: 801px) {
+  /* line 348, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-4 .container .icone-telefone img {
     left: 169px;
     top: -191px;
@@ -524,7 +525,7 @@ html body .slide-4 .container .icone-telefone img {
   }
 }
 
-/* line 359, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 358, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-5 {
   padding-top: 15rem;
   width: 100%;
@@ -532,7 +533,7 @@ html body .slide-5 {
   background: #1B1B1B;
 }
 
-/* line 365, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 364, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-5 .container {
   align-items: flex-start;
   justify-content: center;
@@ -540,19 +541,19 @@ html body .slide-5 .container {
   flex-direction: row;
 }
 
-/* line 370, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 369, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-5 .container .objetivo {
   display: flex;
   flex-direction: column;
 }
 
-/* line 373, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 372, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-5 .container .objetivo h1 {
   margin-bottom: 5.5rem;
   color: #FFFFFF;
 }
 
-/* line 378, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 377, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-5 .container .objetivo p {
   margin-bottom: 3.7rem;
   width: 100%;
@@ -560,20 +561,20 @@ html body .slide-5 .container .objetivo p {
   color: #FFFFFF;
 }
 
-/* line 385, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 384, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-5 .container .objetivo h2 {
   margin-top: 4.2rem;
   color: #FFFFFF;
 }
 
 @media (max-width: 1280px) {
-  /* line 359, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 358, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-5 {
     padding-top: 2rem;
   }
 }
 
-/* line 397, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 396, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-6 {
   padding-top: 20rem;
   width: 100%;
@@ -581,7 +582,7 @@ html body .slide-6 {
   background: #1B1B1B;
 }
 
-/* line 403, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 402, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-6 .container {
   align-items: center;
   justify-content: center;
@@ -589,19 +590,19 @@ html body .slide-6 .container {
   flex-direction: row;
 }
 
-/* line 408, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 407, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-6 .container .divulgacao {
   display: flex;
   flex-direction: column;
 }
 
-/* line 411, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 410, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-6 .container .divulgacao h1 {
   margin-bottom: 5.5rem;
   color: #FFFFFF;
 }
 
-/* line 416, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 415, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-6 .container .divulgacao p {
   margin-bottom: 3.7rem;
   width: 100%;
@@ -609,13 +610,13 @@ html body .slide-6 .container .divulgacao p {
   color: #FFFFFF;
 }
 
-/* line 423, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 422, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-6 .container .divulgacao h2 {
   margin-top: 4.2rem;
   color: #FFFFFF;
 }
 
-/* line 431, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 430, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 {
   padding-top: 20rem;
   width: 100%;
@@ -623,7 +624,7 @@ html body .slide-7 {
   background: #1B1B1B;
 }
 
-/* line 437, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 436, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container {
   align-items: center;
   justify-content: center;
@@ -631,7 +632,7 @@ html body .slide-7 .container {
   flex-direction: row;
 }
 
-/* line 442, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 441, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container .tecnologias {
   width: 100%;
   max-width: 70.4rem;
@@ -639,7 +640,7 @@ html body .slide-7 .container .tecnologias {
   flex-direction: column;
 }
 
-/* line 447, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 446, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container .tecnologias h1 {
   text-align: center;
   margin-bottom: 5.5rem;
@@ -647,12 +648,12 @@ html body .slide-7 .container .tecnologias h1 {
   margin-bottom: 17.7rem;
 }
 
-/* line 454, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 453, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container .tecnologias h2 {
   color: #FFFFFF;
 }
 
-/* line 457, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 456, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container .tecnologias .stacks {
   display: flex;
   flex-direction: row;
@@ -660,7 +661,7 @@ html body .slide-7 .container .tecnologias .stacks {
   justify-content: center;
 }
 
-/* line 463, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 462, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container .tecnologias .stacks ul {
   width: 100%;
   flex-direction: row;
@@ -670,13 +671,13 @@ html body .slide-7 .container .tecnologias .stacks ul {
   margin-bottom: 13.7rem;
 }
 
-/* line 469, ../../JIIC-NVM-HTML/scss/_home.scss */
+/* line 468, ../../JIIC-NVM-HTML/scss/_home.scss */
 html body .slide-7 .container .tecnologias .stacks ul li {
   font-size: 100px;
 }
 
 @media (max-width: 1280px) {
-  /* line 431, ../../JIIC-NVM-HTML/scss/_home.scss */
+  /* line 430, ../../JIIC-NVM-HTML/scss/_home.scss */
   html body .slide-7 {
     padding-top: 7rem;
   }
