@@ -6,7 +6,7 @@ html {
     body {
         .slides-jiic {
             .swiper-pagination {
-                left: 800px;
+                left: 910px;
                 position: absolute;
                 width: 15rem;
 
@@ -32,6 +32,12 @@ html {
             @include responsive(1921px) {
                 .swiper-pagination {
                     left: 887px;
+                }
+            }
+
+            @include responsive(1460px) {
+                .swiper-pagination {
+                    left: 642px;
                 }
             }
 
